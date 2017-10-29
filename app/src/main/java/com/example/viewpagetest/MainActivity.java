@@ -174,7 +174,7 @@ public class MainActivity extends Activity {
 		@Override
 		public void onPageScrolled(int arg0, float arg1, int arg2) {
 
-			System.out.println(  "lastValue =" + lastValue + " arg2=" + arg2);
+			//System.out.println(  "lastValue =" + lastValue + " arg2=" + arg2);
 
 			if (isScrolling) {
 				if (lastValue > arg2) {
@@ -199,7 +199,7 @@ public class MainActivity extends Activity {
 
 			int numPageViews = pageview.size();
 
-			System.out.println(  "dotViews.length =" + dotViews.length  + " numPageViews=" + numPageViews );
+			//System.out.println(  "dotViews.length =" + dotViews.length  + " numPageViews=" + numPageViews );
 
 			//少于等于六个点
 			if( dotViews.length == numPageViews ) {
@@ -209,7 +209,7 @@ public class MainActivity extends Activity {
 				dotViews[pos].setBackgroundResource(R.drawable.page_indicator_focused);
 				return;
 			}
-			Log.i( "", "right=" + right + " left=" + left );
+			System.out.println( "right=" + right + " left=" + left + " pos=" + pos);
 
 
 			//向右滑动
@@ -245,11 +245,12 @@ public class MainActivity extends Activity {
 			} else if( left ) {
 
 				if( pos >= MAX_DOTS-2 ) {
+
 					dotViews[0].setBackgroundResource(R.drawable.page_indicator_more);
 					for(int i = 1; i< MAX_DOTS; i++){
 						dotViews[i].setBackgroundResource(R.drawable.page_indicator_unfocused);
 					}
-					dotViews[pos-3].setBackgroundResource(R.drawable.page_indicator_focused);
+					dotViews[MAX_DOTS -1 - (numPageViews-pos -1)].setBackgroundResource(R.drawable.page_indicator_focused);
 
 				} else if( pos >=2 && pos < MAX_DOTS-2 ) {
 					dotViews[0].setBackgroundResource(R.drawable.page_indicator_more);

@@ -6,22 +6,22 @@
     density="xhdpi"
     format="10"
     plugin-version="2.3.3"
-    timestamp="1509291295150"
+    timestamp="1509292495162"
     token="-2670525983379831443"
     verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
-        duration="112" />
+        duration="83" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="5" />
+        duration="17" />
     <task
         name="verifier"
-        duration="1" />
+        duration="2" />
 
     <artifact
         location="/Users/ok/Documents/java/android/viewpagetest/app/build/intermediates/split-apk/debug/slices/slice_8.apk"
@@ -73,7 +73,7 @@
     </build>
     <build
         build-mode="COLD"
-        timestamp="1509291265989"
+        timestamp="1509292440789"
         verifier="COLD_SWAP_REQUESTED" >
         <artifact
             location="/Users/ok/Documents/java/android/viewpagetest/app/build/outputs/apk/app-debug.apk"
@@ -81,7 +81,7 @@
     </build>
     <build
         build-mode="COLD"
-        timestamp="1509291295150"
+        timestamp="1509292495162"
         verifier="COLD_SWAP_REQUESTED" >
         <artifact
             location="/Users/ok/Documents/java/android/viewpagetest/app/build/intermediates/split-apk/debug/slices/slice_8.apk"
