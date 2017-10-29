@@ -6,13 +6,13 @@
     density="xhdpi"
     format="10"
     plugin-version="2.3.3"
-    timestamp="1509289509151"
+    timestamp="1509291295150"
     token="-2670525983379831443"
     verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
-        duration="87" />
+        duration="112" />
     <task
         name="instant-run-dex"
         duration="0" />
@@ -73,7 +73,7 @@
     </build>
     <build
         build-mode="COLD"
-        timestamp="1509289465069"
+        timestamp="1509291265989"
         verifier="COLD_SWAP_REQUESTED" >
         <artifact
             location="/Users/ok/Documents/java/android/viewpagetest/app/build/outputs/apk/app-debug.apk"
@@ -81,7 +81,7 @@
     </build>
     <build
         build-mode="COLD"
-        timestamp="1509289509151"
+        timestamp="1509291295150"
         verifier="COLD_SWAP_REQUESTED" >
         <artifact
             location="/Users/ok/Documents/java/android/viewpagetest/app/build/intermediates/split-apk/debug/slices/slice_8.apk"

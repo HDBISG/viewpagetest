@@ -223,6 +223,7 @@ public class MainActivity extends Activity {
 					dotViews[MAX_DOTS-1].setBackgroundResource(R.drawable.page_indicator_more);
 
 				} else if( pos >= MAX_DOTS-1 && pos < numPageViews-2 ) {
+
 					dotViews[0].setBackgroundResource(R.drawable.page_indicator_more);
 					for(int i = 1; i< MAX_DOTS-2; i++){
 						dotViews[i].setBackgroundResource(R.drawable.page_indicator_unfocused);
@@ -243,6 +244,28 @@ public class MainActivity extends Activity {
 				}
 			} else if( left ) {
 
+				if( pos >= MAX_DOTS-2 ) {
+					dotViews[0].setBackgroundResource(R.drawable.page_indicator_more);
+					for(int i = 1; i< MAX_DOTS; i++){
+						dotViews[i].setBackgroundResource(R.drawable.page_indicator_unfocused);
+					}
+					dotViews[pos-3].setBackgroundResource(R.drawable.page_indicator_focused);
+
+				} else if( pos >=2 && pos < MAX_DOTS-2 ) {
+					dotViews[0].setBackgroundResource(R.drawable.page_indicator_more);
+					dotViews[1].setBackgroundResource(R.drawable.page_indicator_focused);
+					for(int i = 2; i< MAX_DOTS-1; i++){
+						dotViews[i].setBackgroundResource(R.drawable.page_indicator_unfocused);
+					}
+					dotViews[MAX_DOTS-1].setBackgroundResource(R.drawable.page_indicator_more);
+
+				} else {
+					for(int i = 0; i< MAX_DOTS-1; i++){
+						dotViews[i].setBackgroundResource(R.drawable.page_indicator_unfocused);
+					}
+					dotViews[pos].setBackgroundResource(R.drawable.page_indicator_focused);
+					dotViews[MAX_DOTS-1].setBackgroundResource(R.drawable.page_indicator_more);
+				}
 			}
 		}
 
