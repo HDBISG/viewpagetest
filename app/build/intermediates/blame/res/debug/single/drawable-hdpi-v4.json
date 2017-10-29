@@ -1,7 +1,19 @@
 [
     {
+        "merged": "/Users/ok/Documents/java/android/viewpagetest/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/figure5.jpg",
+        "source": "/Users/ok/Documents/java/android/viewpagetest/app/src/main/res/drawable-hdpi/figure5.jpg"
+    },
+    {
+        "merged": "/Users/ok/Documents/java/android/viewpagetest/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/figure8.jpg",
+        "source": "/Users/ok/Documents/java/android/viewpagetest/app/src/main/res/drawable-hdpi/figure8.jpg"
+    },
+    {
         "merged": "/Users/ok/Documents/java/android/viewpagetest/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/view3.jpg",
         "source": "/Users/ok/Documents/java/android/viewpagetest/app/src/main/res/drawable-hdpi/view3.jpg"
+    },
+    {
+        "merged": "/Users/ok/Documents/java/android/viewpagetest/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/figure2.jpg",
+        "source": "/Users/ok/Documents/java/android/viewpagetest/app/src/main/res/drawable-hdpi/figure2.jpg"
     },
     {
         "merged": "/Users/ok/Documents/java/android/viewpagetest/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/view1.jpg",
@@ -10,5 +22,29 @@
     {
         "merged": "/Users/ok/Documents/java/android/viewpagetest/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/view2.jpg",
         "source": "/Users/ok/Documents/java/android/viewpagetest/app/src/main/res/drawable-hdpi/view2.jpg"
+    },
+    {
+        "merged": "/Users/ok/Documents/java/android/viewpagetest/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/figure3.jpg",
+        "source": "/Users/ok/Documents/java/android/viewpagetest/app/src/main/res/drawable-hdpi/figure3.jpg"
+    },
+    {
+        "merged": "/Users/ok/Documents/java/android/viewpagetest/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/figure6.jpg",
+        "source": "/Users/ok/Documents/java/android/viewpagetest/app/src/main/res/drawable-hdpi/figure6.jpg"
+    },
+    {
+        "merged": "/Users/ok/Documents/java/android/viewpagetest/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/figure7.jpg",
+        "source": "/Users/ok/Documents/java/android/viewpagetest/app/src/main/res/drawable-hdpi/figure7.jpg"
+    },
+    {
+        "merged": "/Users/ok/Documents/java/android/viewpagetest/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/figure1.jpg",
+        "source": "/Users/ok/Documents/java/android/viewpagetest/app/src/main/res/drawable-hdpi/figure1.jpg"
+    },
+    {
+        "merged": "/Users/ok/Documents/java/android/viewpagetest/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/figure4.jpg",
+        "source": "/Users/ok/Documents/java/android/viewpagetest/app/src/main/res/drawable-hdpi/figure4.jpg"
+    },
+    {
+        "merged": "/Users/ok/Documents/java/android/viewpagetest/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/figure9.jpg",
+        "source": "/Users/ok/Documents/java/android/viewpagetest/app/src/main/res/drawable-hdpi/figure9.jpg"
     }
 ]

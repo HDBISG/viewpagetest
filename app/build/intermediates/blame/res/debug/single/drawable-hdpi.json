@@ -8,6 +8,10 @@
         "source": "/Users/ok/Documents/java/android/viewpagetest/app/src/main/res/drawable-hdpi/page_indicator_focused.png"
     },
     {
+        "merged": "/Users/ok/Documents/java/android/viewpagetest/app/build/intermediates/res/merged/debug/drawable-hdpi/page_indicator_more.png",
+        "source": "/Users/ok/Documents/java/android/viewpagetest/app/src/main/res/drawable-hdpi/page_indicator_more.png"
+    },
+    {
         "merged": "/Users/ok/Documents/java/android/viewpagetest/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_launcher.png",
         "source": "/Users/ok/Documents/java/android/viewpagetest/app/src/main/res/drawable-hdpi/ic_launcher.png"
     }

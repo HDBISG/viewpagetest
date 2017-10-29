@@ -15,12 +15,22 @@ public final class R {
         public static final int activity_vertical_margin=0x7f050001;
     }
     public static final class drawable {
-        public static final int ic_launcher=0x7f020000;
-        public static final int page_indicator_focused=0x7f020001;
-        public static final int page_indicator_unfocused=0x7f020002;
-        public static final int view1=0x7f020003;
-        public static final int view2=0x7f020004;
-        public static final int view3=0x7f020005;
+        public static final int figure1=0x7f020000;
+        public static final int figure2=0x7f020001;
+        public static final int figure3=0x7f020002;
+        public static final int figure4=0x7f020003;
+        public static final int figure5=0x7f020004;
+        public static final int figure6=0x7f020005;
+        public static final int figure7=0x7f020006;
+        public static final int figure8=0x7f020007;
+        public static final int figure9=0x7f020008;
+        public static final int ic_launcher=0x7f020009;
+        public static final int page_indicator_focused=0x7f02000a;
+        public static final int page_indicator_more=0x7f02000b;
+        public static final int page_indicator_unfocused=0x7f02000c;
+        public static final int view1=0x7f02000d;
+        public static final int view2=0x7f02000e;
+        public static final int view3=0x7f02000f;
     }
     public static final class id {
         public static final int action_settings=0x7f080003;
