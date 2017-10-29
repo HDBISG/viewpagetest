@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/ok/Documents/java/android/viewpagetest/app/build/intermediates/res/merged/debug/drawable-hdpi/page_indicator_unfocused.png",
+        "source": "/Users/ok/Documents/java/android/viewpagetest/app/src/main/res/drawable-hdpi/page_indicator_unfocused.png"
+    },
+    {
+        "merged": "/Users/ok/Documents/java/android/viewpagetest/app/build/intermediates/res/merged/debug/drawable-hdpi/page_indicator_focused.png",
+        "source": "/Users/ok/Documents/java/android/viewpagetest/app/src/main/res/drawable-hdpi/page_indicator_focused.png"
+    },
+    {
+        "merged": "/Users/ok/Documents/java/android/viewpagetest/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_launcher.png",
+        "source": "/Users/ok/Documents/java/android/viewpagetest/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    }
+]

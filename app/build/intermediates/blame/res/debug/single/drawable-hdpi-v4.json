@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/ok/Documents/java/android/viewpagetest/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/view3.jpg",
+        "source": "/Users/ok/Documents/java/android/viewpagetest/app/src/main/res/drawable-hdpi/view3.jpg"
+    },
+    {
+        "merged": "/Users/ok/Documents/java/android/viewpagetest/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/view1.jpg",
+        "source": "/Users/ok/Documents/java/android/viewpagetest/app/src/main/res/drawable-hdpi/view1.jpg"
+    },
+    {
+        "merged": "/Users/ok/Documents/java/android/viewpagetest/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/view2.jpg",
+        "source": "/Users/ok/Documents/java/android/viewpagetest/app/src/main/res/drawable-hdpi/view2.jpg"
+    }
+]

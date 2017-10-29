@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/ok/Documents/java/android/viewpagetest/app/build/intermediates/res/merged/debug/layout/item03.xml",
+        "source": "/Users/ok/Documents/java/android/viewpagetest/app/src/main/res/layout/item03.xml"
+    },
+    {
+        "merged": "/Users/ok/Documents/java/android/viewpagetest/app/build/intermediates/res/merged/debug/layout/main.xml",
+        "source": "/Users/ok/Documents/java/android/viewpagetest/app/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/Users/ok/Documents/java/android/viewpagetest/app/build/intermediates/res/merged/debug/layout/item01.xml",
+        "source": "/Users/ok/Documents/java/android/viewpagetest/app/src/main/res/layout/item01.xml"
+    },
+    {
+        "merged": "/Users/ok/Documents/java/android/viewpagetest/app/build/intermediates/res/merged/debug/layout/item02.xml",
+        "source": "/Users/ok/Documents/java/android/viewpagetest/app/src/main/res/layout/item02.xml"
+    }
+]
